@@ -1,4 +1,4 @@
-# Assignment 1
+# Project 7 :- Product Home Page
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 7 
+
 
 ### What I Learned from this Project?
 
@@ -16,6 +16,8 @@
 
 ### This project took around 3 hours to complete.
 
+### Project Link : [Link](https://product-home-page-dashboard.netlify.app/)
+
 ### Screenshot
 
-![](./screenshot/Screenshot%20(22).png)
+![](./screenshot/Proj7.png)
