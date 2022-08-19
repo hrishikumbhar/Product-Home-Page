@@ -13,11 +13,12 @@
 ### What I Learned from this Project?
 
 - Learned to use flex grow, shrink & basis
+- Learned how we can use position Relative & Absolute
 
 ### This project took around 3 hours to complete.
 
-### Project Link : [Link](https://product-home-page-dashboard.netlify.app/)
+### Project Link : [Link](https://proj-7-product-home-page.netlify.app/)
 
 ### Screenshot
 
-![](./screenshot/Proj7.png)
+![](./screenshot/PROJ_7.png)
